@@ -1,0 +1,18 @@
+.footer{    
+    background-color:black;
+    position: sticky;
+    top:100%;
+    padding:20px 10px;
+}
+.socials {
+   color:black;
+   font-size: 48px;
+   
+
+}
+.socials a i{
+    font-size: 20px;
+    background-color: red;
+
+}
+
