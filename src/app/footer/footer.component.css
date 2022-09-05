@@ -10,9 +10,20 @@
    
 
 }
-.socials a i{
-    font-size: 20px;
-    background-color: red;
-
+.social {
+    list-style: none; 
+    margin: 1rem 0 3rem 0;
 }
-
+.social a{
+ color: rgb(253, 248, 248);
+}
+.social a i{
+    font-size: 30px;
+    padding: 10px;
+}
+.social a:hover i{
+   color: aqua;
+}
+.ft1 {
+    text-align: justify;
+}

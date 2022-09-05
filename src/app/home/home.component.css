@@ -21,5 +21,10 @@ h1{
 .card {
     box-shadow: 5px 10px 5px rgb(77, 75, 75);
 }
-    
-
+.prep {
+    text-align: justify;
+    text-indent: 50px;
+} 
+.prep1{
+    text-align: center;
+}
